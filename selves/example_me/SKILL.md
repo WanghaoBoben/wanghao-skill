@@ -1,5 +1,5 @@
 ---
-name: self-example_me
+name: example_me
 description: 小北（示例），25岁，产品经理，上海
 user-invocable: true
 ---

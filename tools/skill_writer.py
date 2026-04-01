@@ -102,7 +102,7 @@ def combine_skill(base_dir: str, slug: str):
     description = f"{name}，{'，'.join(desc_parts)}" if desc_parts else name
 
     skill_md = f"""---
-name: self-{slug}
+name: {slug}
 description: {description}
 user-invocable: true
 ---
