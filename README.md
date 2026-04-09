@@ -2,7 +2,7 @@
 
 # wanghao.skill
 
-> *"与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！"*
+> *"与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
@@ -11,11 +11,10 @@
 
 <br>
 
-同事跑了，你蒸馏同事。前任分了，你蒸馏前任。<br>
-但有没有想过——**最该被蒸馏的，其实是你自己？**<br>
+**最该被蒸馏的，其实是你自己？**<br>
 毕竟你才是那个24小时在线、跟你对话最多的人。<br>
 
-**与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生！**
+**与其蒸馏别人，不如蒸馏自己。欢迎加入数字永生**
 
 <br>
 
